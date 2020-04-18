@@ -6,4 +6,6 @@ When data is stored in Ona servers, you can import your data from Ona directly t
 
 With this Ona.R package, I decided to R for my data cleaning and building of charts that I will use on my report.
 
+I used `tidyr` package to help us with functions we wanted for data cleaning. For instance **tidyr** has functions like `Separate()` functions that helps to take multiple columns as input selected and transforms them into key-value pairs.
+
 
