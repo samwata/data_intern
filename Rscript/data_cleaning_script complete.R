@@ -4,7 +4,7 @@ install.packages('tidyr')
 library(tidyr)
 # Get the data
 library(ona)
-s_data <- onaDownload('Marketing_Survey_Form_1_1','onasupport','jmunene','jmg@Ona')
+s_data <- onaDownload('Marketing_Survey_Form_1_1','onasupport','samwata','password')
 
 #Convert the data into a DF
 s_data_df <- as.data.frame(s_data)
